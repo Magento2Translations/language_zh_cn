@@ -634,7 +634,7 @@ Always,总是,module,Magento_Captcha
 "Product with SKU ""%1"" does not exist","产品与 SKU""%1""不存在",module,Magento_CatalogInventory
 "The fewest you may purchase is %1.","您可以购买最少是 %1。",module,Magento_CatalogInventory
 "Please correct the quantity for some products.",请更正一些产品的数量。,module,Magento_CatalogInventory
-"The most you may purchase is %1.","您可以购买的大部分是 %1。",module,Magento_CatalogInventory
+"The most you may purchase is %1.","您最多可以购买的数量是 %1。",module,Magento_CatalogInventory
 "We don't have as many ""%1"" as you requested.","我们没有您要求的那么多“% 1”。",module,Magento_CatalogInventory
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","我们没有像很多""%1""作为你的要求，但是我们还回来订单剩余的 %2。",module,Magento_CatalogInventory
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","我们没有""%1""在请求的数量，所以我们马上就回来订单剩余的 %2。",module,Magento_CatalogInventory
@@ -761,7 +761,7 @@ Year,年,module,Magento_Catalog
 label,标签,module,Magento_Catalog
 "Product Attributes",产品属性,module,Magento_Catalog
 "Add New Attribute",该属性不存在,module,Magento_Catalog
-Cancel,保存,module,Magento_Catalog
+Cancel,取消,module,Magento_Catalog
 "Save Attribute",保存属性,module,Magento_Catalog
 "Save in New Attribute Set",将保存在新的属性集,module,Magento_Catalog
 "Enter Name for New Attribute Set",输入新的属性集的名称,module,Magento_Catalog
@@ -1104,6 +1104,7 @@ px.,全部展开,module,Magento_Catalog
 "Please provide valid data",请提供有效的数据,module,Magento_Catalog
 "Values of following attributes are invalid: %1","下列属性的值是无效的: %1",module,Magento_Catalog
 "Could not save group price",无法保存组价格,module,Magento_Catalog
+"We can't create writeable directory ""%1"".","无法创建可写目录 ""%1""。",module,Magento_Catalog
 "The file upload failed.",文件上载失败。,module,Magento_Catalog
 "The product has required options.",该产品具有要求的选项。,module,Magento_Catalog
 "Something went wrong while processing the request.",在处理请求时出现了问题。,module,Magento_Catalog
@@ -1717,7 +1718,7 @@ Select,选择,module,Magento_ConfigurableProduct
 "Choose a different Product",选择一种不同的产品,module,Magento_ConfigurableProduct
 "Remove Product",删除产品,module,Magento_ConfigurableProduct
 "Create Product Configurations",创建产品配置,module,Magento_ConfigurableProduct
-Cancel,保存,module,Magento_ConfigurableProduct
+Cancel,取消,module,Magento_ConfigurableProduct
 "Page not found.",找不到网页。,module,Magento_Contact
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.",发送邮件至,module,Magento_Contact
 "We can't process your request right now. Sorry, that's all we know.",我们现在无法处理您的请求。对不起，我们都知道。,module,Magento_Contact
@@ -1819,7 +1820,7 @@ Newsletter,最新资讯,module,Magento_Customer
 Subject,主题,module,Magento_Customer
 Status,状态,module,Magento_Customer
 Sent,已发送,module,Magento_Customer
-Cancel,保存,module,Magento_Customer
+Cancel,取消,module,Magento_Customer
 "Not Sent",未发送,module,Magento_Customer
 Sending,发送,module,Magento_Customer
 Paused,已暂停,module,Magento_Customer
@@ -2614,7 +2615,7 @@ None,无,module,Magento_Fedex
 From,从,module,Magento_GiftMessage
 To,至,module,Magento_GiftMessage
 Message,信息,module,Magento_GiftMessage
-Cancel,保存,module,Magento_GiftMessage
+Cancel,取消,module,Magento_GiftMessage
 "Gift Options",礼物选项,module,Magento_GiftMessage
 "Gift Message",礼品消息,module,Magento_GiftMessage
 "Do you have any gift items in your order?",您的订单有什么礼物吗?,module,Magento_GiftMessage
@@ -4008,7 +4009,7 @@ Back,后退,module,Magento_Review
 "Submitted on %1","在 %1 上提交",module,Magento_Review
 "Back to My Reviews",回到我的评论,module,Magento_Review
 "Ratings Review Summary",分级审查摘要,module,Magento_Review
-"Be the first to review this product",成为第一个审查此产品,module,Magento_Review
+"Be the first to review this product",率先评论此产品,module,Magento_Review
 "Write Your Own Review",编写您自己的评论,module,Magento_Review
 "* Required Fields",*必要字段,module,Magento_Review
 "You're reviewing:",您正在查看:,module,Magento_Review
@@ -4199,7 +4200,7 @@ Billing,账单,module,Magento_Sales
 "Submit Comment",分离段,module,Magento_Sales
 "Submit Order",提交订单,module,Magento_Sales
 "Are you sure you want to cancel this order?",你确定你想要取消此订单?,module,Magento_Sales
-Cancel,保存,module,Magento_Sales
+Cancel,取消,module,Magento_Sales
 "Billing Address",账单地址,module,Magento_Sales
 "Payment Method",支付方式,module,Magento_Sales
 "Order Comment",订单评论,module,Magento_Sales
@@ -5020,7 +5021,7 @@ Ship,无可用发货信息,module,Magento_Shipping
 "Product Name",产品名称,module,Magento_Shipping
 Delete,删除,module,Magento_Shipping
 "Create Packages",创建包,module,Magento_Shipping
-Cancel,保存,module,Magento_Shipping
+Cancel,取消,module,Magento_Shipping
 Save,保存,module,Magento_Shipping
 "Add Package",添加软件包,module,Magento_Shipping
 "Add Selected Product(s) to Package",向包中添加所选的产品,module,Magento_Shipping
@@ -5443,7 +5444,7 @@ Minute,分钟,module,Magento_Theme
 "Invalid UI Component element name: '%1'","无效的 UI 组件元素名称: '%1'",module,Magento_Ui
 "Bookmark with id ""%1"" does not exist.","Id 为""%1""的书签不存在。",module,Magento_Ui
 "Invalid UI Component element name: ''",无效的UI组件元素名称：“,module,Magento_Ui
-Cancel,保存,module,Magento_Ui
+Cancel,取消,module,Magento_Ui
 Back,后退,module,Magento_Ui
 Next,下一个,module,Magento_Ui
 "UPS Next Day Air",UPS航空次日送达,module,Magento_Ups
@@ -5686,10 +5687,10 @@ All,全部,module,Magento_User
 Resources,资源,module,Magento_User
 "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","警告! \r\nThis 操作将删除此用户从已分配 role\r\nAre 你确定吗?",module,Magento_User
 "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","警告! \r\nThis 操作将删除这些用户从已分配 roles\r\nAre 你确定吗?",module,Magento_User
-"First-Class Mail Large Envelope",一流的邮件大信封,module,Magento_Usps
-"First-Class Mail Letter",一流的邮件信,module,Magento_Usps
+"First-Class Mail Large Envelope","First-Class Mail（普通邮件）大信封",module,Magento_Usps
+"First-Class Mail Letter","First-Class Mail（普通邮件）信",module,Magento_Usps
 "First-Class Mail Parcel",一流的邮件包裹,module,Magento_Usps
-"First-Class Mail Postcards",一流的邮件明信片,module,Magento_Usps
+"First-Class Mail Postcards","First-Class Mail（普通邮件）明信片",module,Magento_Usps
 "Priority Mail",优先邮件,module,Magento_Usps
 "Priority Mail Express Hold For Pickup",优先邮件快递舱为皮卡的,module,Magento_Usps
 "Priority Mail Express",优先邮件快递,module,Magento_Usps
@@ -6025,7 +6026,7 @@ Password,密码,module,Magento_Checkout
 "Forgot Your Password?",忘记密码？,module,Magento_Checkout
 "My billing and shipping address are the same",我的帐单和发货使用相同地址,module,Magento_Checkout
 Update,更新,module,Magento_Checkout
-Cancel,保存,module,Magento_Checkout
+Cancel,取消,module,Magento_Checkout
 "Save in address book",保存到地址簿,module,Magento_Checkout
 "Estimated Total",估计总额,module,Magento_Checkout
 "You can create an account after checkout.",您可以在结账后创建帐户。,module,Magento_Checkout
@@ -6330,7 +6331,7 @@ Done,完成,module,Magento_Integration
 "Video not found",找不到视频,module,Magento_ProductVideo
 "New Video",新视频,module,Magento_ProductVideo
 Save,保存,module,Magento_ProductVideo
-Cancel,保存,module,Magento_ProductVideo
+Cancel,取消,module,Magento_ProductVideo
 Delete,删除,module,Magento_ProductVideo
 "Edit Video",编辑视频,module,Magento_ProductVideo
 "Images and Videos",图像和视频,module,Magento_ProductVideo
