@@ -479,7 +479,7 @@ Always,总是,module,Magento_Captcha
 "Not all of your products are available in the requested quantity.",不是所有的产品都在要求的数量。,module,Magento_CatalogInventory
 "The fewest you may purchase is %1.","您可以购买最少是 %1。",module,Magento_CatalogInventory
 "Please correct the quantity for some products.",请更正一些产品的数量。,module,Magento_CatalogInventory
-"The most you may purchase is %1.","您可以购买的大部分是 %1。",module,Magento_CatalogInventory
+"The most you may purchase is %1.","您最多可以购买的数量是 %1。",module,Magento_CatalogInventory
 "Only %1 left","只有 %1 左",module,Magento_CatalogInventory
 "Product Name",产品名称,module,Magento_CatalogInventory
 Qty,数量,module,Magento_CatalogInventory
@@ -1123,7 +1123,7 @@ Weight,重量,module,Magento_ConfigurableProduct
 "No Image",没有图像,module,Magento_ConfigurableProduct
 "Choose Affected Attribute Set",选择受影响的属性集,module,Magento_ConfigurableProduct
 Confirm,确认,module,Magento_ConfigurableProduct
-Cancel,保存,module,Magento_ConfigurableProduct
+Cancel,取消,module,Magento_ConfigurableProduct
 "* Required Fields",*必要字段,module,Magento_Contact
 Name,名字,module,Magento_Contact
 Email,邮箱,module,Magento_Contact
@@ -1183,7 +1183,7 @@ Newsletter,最新资讯,module,Magento_Customer
 Subject,主题,module,Magento_Customer
 Status,状态,module,Magento_Customer
 Sent,已发送,module,Magento_Customer
-Cancel,保存,module,Magento_Customer
+Cancel,取消,module,Magento_Customer
 "Not Sent",未发送,module,Magento_Customer
 Sending,发送,module,Magento_Customer
 Paused,已暂停,module,Magento_Customer
@@ -1691,7 +1691,7 @@ None,无,module,Magento_Fedex
 From,从,module,Magento_GiftMessage
 To,至,module,Magento_GiftMessage
 Message,信息,module,Magento_GiftMessage
-Cancel,保存,module,Magento_GiftMessage
+Cancel,取消,module,Magento_GiftMessage
 "Gift Options",礼物选项,module,Magento_GiftMessage
 "Gift Message",礼品消息,module,Magento_GiftMessage
 "Do you have any gift items in your order?",您的订单有什么礼物吗?,module,Magento_GiftMessage
@@ -2705,7 +2705,7 @@ Back,后退,module,Magento_Review
 "My Recent Reviews",我最近的评论,module,Magento_Review
 "Average Customer Rating:",平均客户评级:,module,Magento_Review
 "Back to My Reviews",回到我的评论,module,Magento_Review
-"Be the first to review this product",成为第一个审查此产品,module,Magento_Review
+"Be the first to review this product",率先评论此产品,module,Magento_Review
 "Write Your Own Review",编写您自己的评论,module,Magento_Review
 "* Required Fields",*必要字段,module,Magento_Review
 "You're reviewing:",您正在查看:,module,Magento_Review
@@ -2892,7 +2892,7 @@ Billing,账单,module,Magento_Sales
 "Submit Comment",分离段,module,Magento_Sales
 "Submit Order",提交订单,module,Magento_Sales
 "Are you sure you want to cancel this order?",你确定你想要取消此订单?,module,Magento_Sales
-Cancel,保存,module,Magento_Sales
+Cancel,取消,module,Magento_Sales
 "Billing Address",账单地址,module,Magento_Sales
 "Payment Method",支付方式,module,Magento_Sales
 "Order Comment",订单评论,module,Magento_Sales
@@ -3452,7 +3452,7 @@ Ship,无可用发货信息,module,Magento_Shipping
 "Product Name",产品名称,module,Magento_Shipping
 Delete,删除,module,Magento_Shipping
 "Create Packages",创建包,module,Magento_Shipping
-Cancel,保存,module,Magento_Shipping
+Cancel,取消,module,Magento_Shipping
 "Add Package",添加软件包,module,Magento_Shipping
 "Add Selected Product(s) to Package",向包中添加所选的产品,module,Magento_Shipping
 in,在,module,Magento_Shipping
@@ -3924,10 +3924,10 @@ All,全部,module,Magento_User
 Resources,资源,module,Magento_User
 "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","警告! \r\nThis 操作将删除此用户从已分配 role\r\nAre 你确定吗?",module,Magento_User
 "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","警告! \r\nThis 操作将删除这些用户从已分配 roles\r\nAre 你确定吗?",module,Magento_User
-"First-Class Mail Large Envelope",一流的邮件大信封,module,Magento_Usps
-"First-Class Mail Letter",一流的邮件信,module,Magento_Usps
+"First-Class Mail Large Envelope","First-Class Mail（普通邮件）大信封",module,Magento_Usps
+"First-Class Mail Letter","First-Class Mail（普通邮件）信",module,Magento_Usps
 "First-Class Mail Parcel",一流的邮件包裹,module,Magento_Usps
-"First-Class Mail Postcards",一流的邮件明信片,module,Magento_Usps
+"First-Class Mail Postcards","First-Class Mail（普通邮件）明信片",module,Magento_Usps
 "Priority Mail",优先邮件,module,Magento_Usps
 "Priority Mail Express Hold For Pickup",优先邮件快递舱为皮卡的,module,Magento_Usps
 "Priority Mail Express",优先邮件快递,module,Magento_Usps
@@ -4149,7 +4149,7 @@ Total:,总数:,module,Magento_Checkout
 "Add Products to New Option",将产品添加到新的选项,module,Magento_Bundle
 "Add Products to Option ""%1""","将产品添加到""%1""选项",module,Magento_Bundle
 "Add Selected Products",添加所选的产品,module,Magento_Bundle
-Cancel,保存,module,Magento_Catalog
+Cancel,取消,module,Magento_Catalog
 "Configure Product",配置产品,module,Magento_Catalog
 "Select type of option.",选择选项的类型。,module,Magento_Catalog
 "Please add rows to option.",请将行添加到选项。,module,Magento_Catalog
