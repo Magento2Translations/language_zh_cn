@@ -646,7 +646,7 @@ Always,总是,module,Magento_Captcha
 "Product with SKU ""%1"" does not exist","产品与 SKU""%1""不存在",module,Magento_CatalogInventory
 "The fewest you may purchase is %1.","您可以购买最少是 %1。",module,Magento_CatalogInventory
 "Please correct the quantity for some products.",请更正一些产品的数量。,module,Magento_CatalogInventory
-"The most you may purchase is %1.","您可以购买的大部分是 %1。",module,Magento_CatalogInventory
+"The most you may purchase is %1.","您最多可以购买的数量是 %1。",module,Magento_CatalogInventory
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","我们没有像很多""%1""作为你的要求，但是我们还回来订单剩余的 %2。",module,Magento_CatalogInventory
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","我们没有""%1""在请求的数量，所以我们马上就回来订单剩余的 %2。",module,Magento_CatalogInventory
 "You can buy %1 only in quantities of %2 at a time.","你可以一次买只在数量的 %2 %1。",module,Magento_CatalogInventory
@@ -1695,7 +1695,7 @@ Actions,动作,module,Magento_ConfigurableProduct
 "Create Product Configurations",创建产品配置,module,Magento_ConfigurableProduct
 "Choose Affected Attribute Set",选择受影响的属性集,module,Magento_ConfigurableProduct
 Confirm,确认,module,Magento_ConfigurableProduct
-Cancel,保存,module,Magento_ConfigurableProduct
+Cancel,取消,module,Magento_ConfigurableProduct
 "Page not found.",找不到网页。,module,Magento_Contact
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.",发送邮件至,module,Magento_Contact
 "We can't process your request right now. Sorry, that's all we know.",我们现在无法处理您的请求。对不起，我们都知道。,module,Magento_Contact
@@ -1794,7 +1794,7 @@ Newsletter,最新资讯,module,Magento_Customer
 Subject,主题,module,Magento_Customer
 Status,状态,module,Magento_Customer
 Sent,已发送,module,Magento_Customer
-Cancel,保存,module,Magento_Customer
+Cancel,取消,module,Magento_Customer
 "Not Sent",未发送,module,Magento_Customer
 Sending,发送,module,Magento_Customer
 Paused,已暂停,module,Magento_Customer
@@ -2556,7 +2556,7 @@ None,无,module,Magento_Fedex
 From,从,module,Magento_GiftMessage
 To,至,module,Magento_GiftMessage
 Message,信息,module,Magento_GiftMessage
-Cancel,保存,module,Magento_GiftMessage
+Cancel,取消,module,Magento_GiftMessage
 "Gift Options",礼物选项,module,Magento_GiftMessage
 "Gift Message",礼品消息,module,Magento_GiftMessage
 "Do you have any gift items in your order?",您的订单有什么礼物吗?,module,Magento_GiftMessage
@@ -3902,7 +3902,7 @@ Back,后退,module,Magento_Review
 "Submitted on %1","在 %1 上提交",module,Magento_Review
 "Back to My Reviews",回到我的评论,module,Magento_Review
 "Ratings Review Summary",分级审查摘要,module,Magento_Review
-"Be the first to review this product",成为第一个审查此产品,module,Magento_Review
+"Be the first to review this product",率先评论此产品,module,Magento_Review
 "Write Your Own Review",编写您自己的评论,module,Magento_Review
 "* Required Fields",*必要字段,module,Magento_Review
 "Your Rating",您的评级,module,Magento_Review
@@ -4116,7 +4116,7 @@ Billing,账单,module,Magento_Sales
 "Submit Comment",分离段,module,Magento_Sales
 "Submit Order",提交订单,module,Magento_Sales
 "Are you sure you want to cancel this order?",你确定你想要取消此订单?,module,Magento_Sales
-Cancel,保存,module,Magento_Sales
+Cancel,取消,module,Magento_Sales
 "Billing Address",账单地址,module,Magento_Sales
 "Payment Method",支付方式,module,Magento_Sales
 "Order Comment",订单评论,module,Magento_Sales
@@ -4889,7 +4889,7 @@ Ship,无可用发货信息,module,Magento_Shipping
 "Product Name",产品名称,module,Magento_Shipping
 Delete,删除,module,Magento_Shipping
 "Create Packages",创建包,module,Magento_Shipping
-Cancel,保存,module,Magento_Shipping
+Cancel,取消,module,Magento_Shipping
 Save,保存,module,Magento_Shipping
 "Add Package",添加软件包,module,Magento_Shipping
 "Add Selected Product(s) to Package",向包中添加所选的产品,module,Magento_Shipping
@@ -5288,7 +5288,7 @@ Minute,分钟,module,Magento_Theme
 "Initialization error component, check the spelling of the name or the correctness of the call.",初始化组件时出错，请检查名称的拼写或调用的正确性。,module,Magento_Ui
 Next,下一个,module,Magento_Ui
 Back,后退,module,Magento_Ui
-Cancel,保存,module,Magento_Ui
+Cancel,取消,module,Magento_Ui
 "UPS Next Day Air",UPS航空次日送达,module,Magento_Ups
 "UPS Second Day Air","UPS 第二天的空气",module,Magento_Ups
 "UPS Ground",UPS地面运送,module,Magento_Ups
@@ -5521,10 +5521,10 @@ All,全部,module,Magento_User
 Resources,资源,module,Magento_User
 "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","警告! \r\nThis 操作将删除此用户从已分配 role\r\nAre 你确定吗?",module,Magento_User
 "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","警告! \r\nThis 操作将删除这些用户从已分配 roles\r\nAre 你确定吗?",module,Magento_User
-"First-Class Mail Large Envelope",一流的邮件大信封,module,Magento_Usps
-"First-Class Mail Letter",一流的邮件信,module,Magento_Usps
+"First-Class Mail Large Envelope","First-Class Mail（普通邮件）大信封",module,Magento_Usps
+"First-Class Mail Letter","First-Class Mail（普通邮件）信",module,Magento_Usps
 "First-Class Mail Parcel",一流的邮件包裹,module,Magento_Usps
-"First-Class Mail Postcards",一流的邮件明信片,module,Magento_Usps
+"First-Class Mail Postcards","First-Class Mail（普通邮件）明信片",module,Magento_Usps
 "Priority Mail",优先邮件,module,Magento_Usps
 "Priority Mail Express Hold For Pickup",优先邮件快递舱为皮卡的,module,Magento_Usps
 "Priority Mail Express",优先邮件快递,module,Magento_Usps
@@ -5941,7 +5941,7 @@ Password:,密码:,theme,frontend/Magento/luma
 "Add Selected Products",添加所选的产品,module,Magento_Bundle
 "Warning message",警告消息,module,Magento_Catalog
 Ok,OK,module,Magento_Catalog
-Cancel,保存,module,Magento_Catalog
+Cancel,取消,module,Magento_Catalog
 Submit,提交,module,Magento_Catalog
 "We don't recognize or support this file extension type.",我们不承认或支持该文件扩展类型。,module,Magento_Catalog
 "Configure Product",配置产品,module,Magento_Catalog
@@ -5986,7 +5986,7 @@ Done,完成,module,Magento_Integration
 "Youtube API key is invalid","Youtube API 密钥无效",module,Magento_ProductVideo
 "Video not found",找不到视频,module,Magento_ProductVideo
 Save,保存,module,Magento_ProductVideo
-Cancel,保存,module,Magento_ProductVideo
+Cancel,取消,module,Magento_ProductVideo
 Delete,删除,module,Magento_ProductVideo
 "Edit Video",编辑视频,module,Magento_ProductVideo
 "Images and Videos",图像和视频,module,Magento_ProductVideo
@@ -6462,7 +6462,7 @@ Shipping,送货,module,Magento_Checkout
 "Order Total",订单金额,module,Magento_Checkout
 "Shipping Address",送货地址,module,Magento_Checkout
 "Save Address",保存地址,module,Magento_Checkout
-Cancel,保存,module,Magento_Checkout
+Cancel,取消,module,Magento_Checkout
 "We'll send your order confirmation here.",在这里，我们会给您的订单确认。,module,Magento_Checkout
 "For delivery questions.",为交货问题。,module,Magento_Checkout
 Payment,付款,module,Magento_Checkout
