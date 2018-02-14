@@ -882,7 +882,7 @@ Product,产品,module,Magento_Catalog
 Home,首页,module,Magento_Catalog
 "Go to Home Page",前往主页,module,Magento_Catalog
 "Subscribe to RSS Feed","订阅 Rss",module,Magento_Catalog
-"Products Comparison List",产品比较列表。,module,Magento_Catalog
+"Products Comparison List",产品比较列表,module,Magento_Catalog
 AM,上午,module,Magento_Catalog
 PM,下午,module,Magento_Catalog
 "-- Please Select --","-- 请选择 --",module,Magento_Catalog
@@ -1775,7 +1775,7 @@ System,系统,module,Magento_CurrencySymbol
 "Please enter a password with a valid length.",请输入一个有效的长度的密码。,module,Magento_CustomerImportExport
 "Sign Out",退出,module,Magento_Customer
 "Sign In",登录,module,Magento_Customer
-"You subscribe to our newsletter.",您订阅我们的时事通讯。,module,Magento_Customer
+"You subscribe to our newsletter.",您订阅我们的邮件列表。,module,Magento_Customer
 "You don't subscribe to our newsletter.",您没有订阅我们的时事通讯。,module,Magento_Customer
 "You have not set a default shipping address.",您没有设置默认的送货地址。,module,Magento_Customer
 "You have not set a default billing address.",您没有设置默认的帐单地址。,module,Magento_Customer
@@ -1963,13 +1963,13 @@ Customers,客户,module,Magento_Customer
 "Reset password token mismatch.",重置密码令牌不匹配。,module,Magento_Customer
 "Reset password token expired.",重置密码令牌到期。,module,Magento_Customer
 "Please correct the transactional account email type.",请更正交易帐户电子邮件类型。,module,Magento_Customer
-"Please enter the first name.",请输入姓氏。,module,Magento_Customer
+"Please enter the first name.",请输入名字。,module,Magento_Customer
 "Please enter the last name.",请输入姓氏。,module,Magento_Customer
-"Please enter the street.",请输入国家。,module,Magento_Customer
+"Please enter the street.",请输入街道地址。,module,Magento_Customer
 "Please enter the city.",请输入城市。,module,Magento_Customer
 "Please enter the phone number.",请输入电话号码。,module,Magento_Customer
 "Please enter the zip/postal code.",请输入邮政编码。,module,Magento_Customer
-"Please enter the country.",请输入该国。,module,Magento_Customer
+"Please enter the country.",请输入国家。,module,Magento_Customer
 "Please enter the state/province.",请输入省/市/自治区。,module,Magento_Customer
 """%1"" is a required value.",“%1”的长度必须等于或小于%2个字符。,module,Magento_Customer
 Global,全球,module,Magento_Customer
@@ -1997,7 +1997,7 @@ Admin,管理员,module,Magento_Customer
 """%1"" is not a valid hostname.","""%1""不是一个有效的主机名。",module,Magento_Customer
 """%1"" uses too many characters.","""%1""使用太多的字符。",module,Magento_Customer
 "'%value%' looks like an IP address, which is not an acceptable format.","'%value%' 看上去像一个 IP 地址，不是一种可接受的格式。",module,Magento_Customer
-"'%value%' looks like a DNS hostname but we cannot match the TLD against known list.","'%value%' 看上去像一个 DNS 主机名，但我们不能匹配对照已知列表 TLD。",module,Magento_Customer
+"'%value%' looks like a DNS hostname but we cannot match the TLD against known list.","'%value%' 看上去像一个 DNS 主机名，但不能对应已知列表中的TLD 。",module,Magento_Customer
 "'%value%' looks like a DNS hostname but contains a dash in an invalid position.","'%value%' 看上去像一个 DNS 主机名，但包含一个破折号在无效的位置。",module,Magento_Customer
 "'%value%' looks like a DNS hostname but we cannot match it against the hostname schema for TLD '%tld%'.","% '看起来像一个DNS主机名，但是我们无法将它与TLD ' % TLD % '的主机名模式相匹配。",module,Magento_Customer
 "'%value%' looks like a DNS hostname but cannot extract TLD part.","'%value%' 看上去像一个 DNS 主机名，但不能提取 TLD 部分。",module,Magento_Customer
@@ -4024,7 +4024,7 @@ Summary,用户中心,module,Magento_Review
 "Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","只有注册的用户才可以写评论。请 <a href=""%1""> 登录</a> 或 <a href=""%2""> 创建帐户</a>",module,Magento_Review
 "Add Your Review",添加您的评论,module,Magento_Review
 "%1 Review(s)","%1 请稍后再试",module,Magento_Review
-"Review by",通过审查,module,Magento_Review
+"Review by",点评者,module,Magento_Review
 "Posted on",张贴在,module,Magento_Review
 "Back to Main Product Info",回到主产品信息,module,Magento_Review
 "Average Customer Rating",平均客户评级,module,Magento_Review
@@ -7166,7 +7166,7 @@ Group,分组,module,Magento_Customer
 "Unsubscribe from Newsletter",取消订阅新闻通讯,module,Magento_Customer
 "Are you sure to unsubscribe selected customers from newsletter?",是否确实要取消所选的客户订阅新闻通讯?,module,Magento_Customer
 "Assign a Customer Group",分配一个客户组,module,Magento_Customer
-"Are you sure to assign selected customers to new group?",是否确实要将选定的客户分配给新的组?,module,Magento_Customer
+"Are you sure to assign selected customers to new group?",是否确实要将选定的客户分配给新的群组?,module,Magento_Customer
 Phone,电话,module,Magento_Customer
 ZIP,邮编,module,Magento_Customer
 "Customer Since",客户自,module,Magento_Customer
