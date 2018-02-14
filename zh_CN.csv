@@ -891,7 +891,7 @@ Product,产品,module,Magento_Catalog
 Home,首页,module,Magento_Catalog
 "Go to Home Page",前往主页,module,Magento_Catalog
 "Subscribe to RSS Feed","订阅 Rss",module,Magento_Catalog
-"Products Comparison List",产品比较列表。,module,Magento_Catalog
+"Products Comparison List",产品比较列表,module,Magento_Catalog
 AM,上午,module,Magento_Catalog
 PM,下午,module,Magento_Catalog
 "-- Please Select --","-- 请选择 --",module,Magento_Catalog
@@ -4111,7 +4111,7 @@ Summary,用户中心,module,Magento_Review
 "Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","只有注册的用户才可以写评论。请 <a href=""%1""> 登录</a> 或 <a href=""%2""> 创建帐户</a>",module,Magento_Review
 "Add Your Review",添加您的评论,module,Magento_Review
 "%1 Review(s)","%1 请稍后再试",module,Magento_Review
-"Review by",通过审查,module,Magento_Review
+"Review by",点评者,module,Magento_Review
 "Posted on",张贴在,module,Magento_Review
 "Back to Main Product Info",回到主产品信息,module,Magento_Review
 "Average Customer Rating",平均客户评级,module,Magento_Review
@@ -7331,7 +7331,7 @@ CSV,"Excel XML",module,Magento_CustomerImportExport
 "Please specify value in minutes.",请以分钟为单位指定值。,module,Magento_Customer
 "Customer Notification",客户通知,module,Magento_Customer
 "Assign a Customer Group",分配一个客户组,module,Magento_Customer
-"Are you sure to assign selected customers to new group?",是否确实要将选定的客户分配给新的组?,module,Magento_Customer
+"Are you sure to assign selected customers to new group?",是否确实要将选定的客户分配给新的群组?,module,Magento_Customer
 "Customer Grid",客户网格,module,Magento_Customer
 "Rebuild Customer grid index",重新生成客户网格索引,module,Magento_Customer
 Group,分组,module,Magento_Customer
