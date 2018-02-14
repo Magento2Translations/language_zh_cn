@@ -704,7 +704,7 @@ Product,产品,module,Magento_Catalog
 "Notify Low Stock RSS",低库存RSS通知,module,Magento_Catalog
 Home,首页,module,Magento_Catalog
 "Go to Home Page",前往主页,module,Magento_Catalog
-"Products Comparison List",产品比较列表。,module,Magento_Catalog
+"Products Comparison List",产品比较列表,module,Magento_Catalog
 AM,上午,module,Magento_Catalog
 PM,下午,module,Magento_Catalog
 "-- Please Select --","-- 请选择 --",module,Magento_Catalog
@@ -1148,7 +1148,7 @@ System,系统,module,Magento_CurrencySymbol
 "Customer address id column is not specified","客户地址 id 列未指定",module,Magento_CustomerImportExport
 "Orphan rows that will be skipped due default row errors",由于默认行错误将被跳过的行,module,Magento_CustomerImportExport
 "Invalid value in Store column (store does not exists?)","在列中存储的值无效 (存储不存在吗?)",module,Magento_CustomerImportExport
-"You subscribe to our newsletter.",您订阅我们的时事通讯。,module,Magento_Customer
+"You subscribe to our newsletter.",您订阅我们的邮件列表。,module,Magento_Customer
 "You have not set a default shipping address.",您没有设置默认的送货地址。,module,Magento_Customer
 "You have not set a default billing address.",您没有设置默认的帐单地址。,module,Magento_Customer
 "Address Book",通讯簿,module,Magento_Customer
@@ -1261,12 +1261,12 @@ Customers,客户,module,Magento_Customer
 "A total of %1 record(s) were deleted.","共有 %1 条记录被删除。",module,Magento_Customer
 "You saved the customer.",你保存的客户。,module,Magento_Customer
 "This account is not confirmed.",此帐户尚未确认。,module,Magento_Customer
-"Please enter the first name.",请输入姓氏。,module,Magento_Customer
+"Please enter the first name.",请输入名字。,module,Magento_Customer
 "Please enter the last name.",请输入姓氏。,module,Magento_Customer
-"Please enter the street.",请输入国家。,module,Magento_Customer
+"Please enter the street.",请输入街道地址。,module,Magento_Customer
 "Please enter the city.",请输入城市。,module,Magento_Customer
 "Please enter the zip/postal code.",请输入邮政编码。,module,Magento_Customer
-"Please enter the country.",请输入该国。,module,Magento_Customer
+"Please enter the country.",请输入国家。,module,Magento_Customer
 "Please enter the state/province.",请输入省/市/自治区。,module,Magento_Customer
 """%1"" is a required value.",“%1”的长度必须等于或小于%2个字符。,module,Magento_Customer
 Global,全球,module,Magento_Customer
@@ -2713,7 +2713,7 @@ Summary,用户中心,module,Magento_Review
 "Submit Review",提交的评论,module,Magento_Review
 "Add Your Review",添加您的评论,module,Magento_Review
 "%1 Review(s)","%1 请稍后再试",module,Magento_Review
-"Review by",通过审查,module,Magento_Review
+"Review by",点评者,module,Magento_Review
 "Posted on",张贴在,module,Magento_Review
 "Back to Main Product Info",回到主产品信息,module,Magento_Review
 "Average Customer Rating",平均客户评级,module,Magento_Review
