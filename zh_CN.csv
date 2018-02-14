@@ -299,9 +299,6 @@ System,系统,module,Magento_Backend
 "Admin session lifetime must be greater than or equal to 60 seconds","管理员会话生存期必须大于或等于 60 秒",module,Magento_Backend
 Order,订单,module,Magento_Backend
 "Order #%1","订单 #%1",module,Magento_Backend
-"Access denied",访问被拒绝,module,Magento_Backend
-"Please try to sign out and sign in again.",请尝试注销并重新登录。,module,Magento_Backend
-"If you continue to receive this message, please contact the store owner.",如果您继续收到此消息，请联系店主。,module,Magento_Backend
 "You need more permissions to access this.",你需要更多的权限来执行此操作。,module,Magento_Backend
 "Welcome, please sign in",欢迎，请登录,module,Magento_Backend
 Username,用户名,module,Magento_Backend
@@ -891,7 +888,7 @@ Product,产品,module,Magento_Catalog
 Home,首页,module,Magento_Catalog
 "Go to Home Page",前往主页,module,Magento_Catalog
 "Subscribe to RSS Feed","订阅 Rss",module,Magento_Catalog
-"Products Comparison List",产品比较列表。,module,Magento_Catalog
+"Products Comparison List",产品比较列表,module,Magento_Catalog
 AM,上午,module,Magento_Catalog
 PM,下午,module,Magento_Catalog
 "-- Please Select --","-- 请选择 --",module,Magento_Catalog
@@ -1429,7 +1426,6 @@ Checkout,结帐,module,Magento_Checkout
 Error!,错误!,module,Magento_Checkout
 "DB exception","DB 异常",module,Magento_Checkout
 Message,信息,module,Magento_Checkout
-"<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1""onclick=""this.target='_blank'""class=""print""> 打印收据</a>",module,Magento_Checkout
 "Apply Discount Code",使用打折代码,module,Magento_Checkout
 "Enter discount code",请输入打折代码,module,Magento_Checkout
 "Apply Discount",使用打折,module,Magento_Checkout
@@ -4103,7 +4099,7 @@ Summary,用户中心,module,Magento_Review
 "Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","只有注册的用户才可以写评论。请 <a href=""%1""> 登录</a> 或 <a href=""%2""> 创建帐户</a>",module,Magento_Review
 "Add Your Review",添加您的评论,module,Magento_Review
 "%1 Review(s)","%1 请稍后再试",module,Magento_Review
-"Review by",通过审查,module,Magento_Review
+"Review by",点评者,module,Magento_Review
 "Posted on",张贴在,module,Magento_Review
 "Back to Main Product Info",回到主产品信息,module,Magento_Review
 "Average Customer Rating",平均客户评级,module,Magento_Review
@@ -6360,8 +6356,6 @@ Footer,页脚,theme,frontend/Magento/luma
 "Sorry, but something went wrong. Please contact the seller.",对不起，但出了点问题。请联系卖方。,module,Magento_Authorizenet
 "We could not detect a size.",我们未能检测到尺寸大小。,module,Magento_Backend
 "We don't recognize or support this file extension type.",我们不承认或支持该文件扩展类型。,module,Magento_Backend
-"Warning message",警告消息,module,Magento_Backend
-"This operation can take a long time",此操作可能需要很长时间,module,Magento_Backend
 "This payment is not available",这笔付款不可用,module,Magento_Braintree
 MM,月月,module,Magento_Braintree
 YY,年年,module,Magento_Braintree
@@ -6597,7 +6591,6 @@ Content,内容,module,Magento_Backend
 Elements,元素,module,Magento_Backend
 Design,设计,module,Magento_Backend
 Schedule,计划任务,module,Magento_Backend
-"Content translation",内容翻译,module,Magento_Backend
 Settings,设置,module,Magento_Backend
 Attributes,属性管理,module,Magento_Backend
 "Other Settings",其他设置,module,Magento_Backend
@@ -6823,7 +6816,6 @@ Select...,选择...,module,Magento_Bundle
 Status,状态,module,Magento_Bundle
 Thumbnail,缩略图,module,Magento_Bundle
 Type,类型:,module,Magento_Bundle
-"Special Price",特价,module,Magento_Bundle
 CAPTCHA,验证码,module,Magento_Captcha
 "Enable CAPTCHA in Admin",启用验证码中的管理,module,Magento_Captcha
 Font,字体,module,Magento_Captcha
