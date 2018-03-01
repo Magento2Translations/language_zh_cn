@@ -5,12 +5,12 @@ Remove,删除,module,Magento_AdminNotification
 "Messages Inbox",消息收件箱,module,Magento_AdminNotification
 "You have %1 new system messages","你有 %1 新系统消息",module,Magento_AdminNotification
 "You have %1 new system message","你有 %1 新系统消息",module,Magento_AdminNotification
-"Incoming Message",传入消息,module,Magento_AdminNotification
+"Incoming Message",接受消息,module,Magento_AdminNotification
 close,关闭,module,Magento_AdminNotification
 Notifications,通知消息,module,Magento_AdminNotification
 "The message has been marked as Read.",邮件已标记为已读。,module,Magento_AdminNotification
-"We couldn't mark the notification as Read because of an error.",由于错误，我们不能将通知标记为读。,module,Magento_AdminNotification
-"Please select messages.",请选择邮件。,module,Magento_AdminNotification
+"We couldn't mark the notification as Read because of an error.",由于发生错误，我们不能将通知标记为读。,module,Magento_AdminNotification
+"Please select messages.",请选择消息。,module,Magento_AdminNotification
 "A total of %1 record(s) have been marked as Read.","共有 %1 条记录已标记为已读。",module,Magento_AdminNotification
 "Total of %1 record(s) have been removed.","共有 %1 条记录已被删除。",module,Magento_AdminNotification
 "We couldn't remove the messages because of an error.",由于发生错误，我们不能删除的消息。,module,Magento_AdminNotification
@@ -20,16 +20,16 @@ Notifications,通知消息,module,Magento_AdminNotification
 "6 Hours","6 个小时",module,Magento_AdminNotification
 "12 Hours","12 个小时",module,Magento_AdminNotification
 "24 Hours","24 小时",module,Magento_AdminNotification
-critical,危急,module,Magento_AdminNotification
-major,重大的,module,Magento_AdminNotification
+critical,紧急,module,Magento_AdminNotification
+major,主要,module,Magento_AdminNotification
 minor,次要,module,Magento_AdminNotification
 notice,通知,module,Magento_AdminNotification
 "Wrong message type",错误消息类型,module,Magento_AdminNotification
-"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","请跳转至 <a href=""%1""> 缓存管理</a> 并刷新缓存类型。",module,Magento_AdminNotification
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","请跳转至 <a href=""%1"">缓存管理</a> 并刷新缓存类型。",module,Magento_AdminNotification
 "Synchronization of media storages has been completed.",媒体库同步已完成。,module,Magento_AdminNotification
 "Close popup",关闭弹窗,module,Magento_AdminNotification
 Close,关闭,module,Magento_AdminNotification
-"Critical System Messages",关键系统消息,module,Magento_AdminNotification
+"Critical System Messages",紧急系统消息,module,Magento_AdminNotification
 "Major System Messages",主要系统消息,module,Magento_AdminNotification
 "System messages",系统消息,module,Magento_AdminNotification
 "You created the order.",您已创建的订单。,module,Magento_Authorizenet
@@ -58,8 +58,8 @@ void,无效,module,Magento_Authorizenet
 "Credit Card Number",信用卡卡号,module,Magento_Authorizenet
 "Expiration Date",过期日期,module,Magento_Authorizenet
 "Card Verification Number",信用卡验证号码,module,Magento_Authorizenet
-"Invalid Form Key. Please refresh the page.",无效的表单密钥。请刷新此页面。,module,Magento_Backend
-"You entered an invalid Secret Key. Please refresh the page.",您输入了无效的密钥。请刷新此页面。,module,Magento_Backend
+"Invalid Form Key. Please refresh the page.",表单密钥无效，请刷新此页面。,module,Magento_Backend
+"You entered an invalid Secret Key. Please refresh the page.",您输入了无效的密钥，请刷新此页面。,module,Magento_Backend
 "Cache Storage Management",缓存存储管理,module,Magento_Backend
 "Flush Magento Cache","刷新 Magento 缓存",module,Magento_Backend
 "Flush Cache Storage",刷新缓存存储,module,Magento_Backend
@@ -67,7 +67,7 @@ Invalidated,无效,module,Magento_Backend
 Orders,订单,module,Magento_Backend
 Amounts,金额,module,Magento_Backend
 Bestsellers,畅销品,module,Magento_Backend
-"Most Viewed Products",查看最多的产品,module,Magento_Backend
+"Most Viewed Products",浏览最多的产品,module,Magento_Backend
 "New Customers",新客户,module,Magento_Backend
 Customers,客户,module,Magento_Backend
 Customer,客户,module,Magento_Backend
@@ -80,7 +80,7 @@ Average,平均,module,Magento_Backend
 Product,产品,module,Magento_Backend
 Price,价格,module,Magento_Backend
 Quantity,数量,module,Magento_Backend
-Views,视图,module,Magento_Backend
+Views,浏览,module,Magento_Backend
 Revenue,收入,module,Magento_Backend
 Tax,税,module,Magento_Backend
 Shipping,运费,module,Magento_Backend
@@ -100,8 +100,8 @@ Email,电子邮件,module,Magento_Backend
 "User Email",用户电子邮件,module,Magento_Backend
 "New Password",新密码,module,Magento_Backend
 "Password Confirmation",密码确认,module,Magento_Backend
-"Interface Locale",用户界面本地化,module,Magento_Backend
-"Current User Identity Verification",当前的用户身份验证,module,Magento_Backend
+"Interface Locale",本地化用户界面,module,Magento_Backend
+"Current User Identity Verification",当前用户身份验证,module,Magento_Backend
 "Your Password",您的密码,module,Magento_Backend
 "Save Cache Settings",保存缓存设置。,module,Magento_Backend
 "Catalog Rewrites",目录编辑,module,Magento_Backend
@@ -114,7 +114,7 @@ Rebuild,重建,module,Magento_Backend
 "Rebuild Catalog Index",重建目录索引,module,Magento_Backend
 "Rebuild Flat Catalog Category",重建平面目录类别,module,Magento_Backend
 "Rebuild Flat Catalog Product",重建平面目录产品,module,Magento_Backend
-"Cache Control",缓存控制,module,Magento_Backend
+"Cache Control",缓存管理,module,Magento_Backend
 "All Cache",所有缓存,module,Magento_Backend
 "No change",没有变化,module,Magento_Backend
 Disable,禁用,module,Magento_Backend
@@ -127,7 +127,7 @@ Save,保存,module,Magento_Backend
 "Edit Design Change",编辑设计更改,module,Magento_Backend
 "New Store Design Change",新店设计更改,module,Magento_Backend
 "General Settings",一般设置,module,Magento_Backend
-Store,商店,module,Magento_Backend
+Store,店铺,module,Magento_Backend
 "-- Please Select --","-- 请选择 --",module,Magento_Backend
 "Custom Design",自定义设计,module,Magento_Backend
 "Date From",始于,module,Magento_Backend
@@ -144,13 +144,13 @@ Yes,是,module,Magento_Backend
 No,否,module,Magento_Backend
 "Delete Store",删除店铺,module,Magento_Backend
 "Delete Web Site",删除网站,module,Magento_Backend
-"Save Web Site","保存 Web 站点",module,Magento_Backend
+"Save Web Site",保存网站,module,Magento_Backend
 "Save Store",保存店铺,module,Magento_Backend
 "Save Store View",保存店铺视图,module,Magento_Backend
 "Delete Store View",删除店铺视图,module,Magento_Backend
 "Edit Web Site",编辑网站,module,Magento_Backend
-"New Web Site","新的 Web 站点",module,Magento_Backend
-"Edit Store",编辑店铺,module,Magento_Backend
+"New Web Site",新建网站,module,Magento_Backend
+"Edit Store",编辑商店,module,Magento_Backend
 "New Store",新店铺,module,Magento_Backend
 "Edit Store View",编辑店铺视图,module,Magento_Backend
 "New Store View",新的店铺视图,module,Magento_Backend
@@ -166,26 +166,26 @@ Disabled,禁用,module,Magento_Backend
 Enabled,启动,module,Magento_Backend
 "Sort Order",排序,module,Magento_Backend
 "Web Site Information",网站信息,module,Magento_Backend
-"Default Store",默认存储,module,Magento_Backend
+"Default Store",默认店铺,module,Magento_Backend
 "Set as Default",设置为默认,module,Magento_Backend
-Stores,商店,module,Magento_Backend
+Stores,店铺,module,Magento_Backend
 "Create Website",创建网站,module,Magento_Backend
 "Create Store",创建店铺,module,Magento_Backend
 "Create Store View",创建店铺视图,module,Magento_Backend
 Home,主页,module,Magento_Backend
 Reset,重置,module,Magento_Backend
 "Are you sure you want to do this?",您确认要这么做么？,module,Magento_Backend
-"Add New Image",添加新的图片,module,Magento_Backend
-"Reset Filter",重置筛选器,module,Magento_Backend
+"Add New Image",添加新图片,module,Magento_Backend
+"Reset Filter",重置筛选,module,Magento_Backend
 Search,搜索,module,Magento_Backend
-Any,任何,module,Magento_Backend
+Any,任意,module,Magento_Backend
 "All Countries",所有国家,module,Magento_Backend
 From,从,module,Magento_Backend
 To,至,module,Magento_Backend
-"Date selector",日期选择器,module,Magento_Backend
+"Date selector",日期选择,module,Magento_Backend
 "[ deleted ]","[ 已删除 ]",module,Magento_Backend
 "Select All",选择全部,module,Magento_Backend
-"Add New",添加,module,Magento_Backend
+"Add New",新增,module,Magento_Backend
 Export,导出,module,Magento_Backend
 "Please correct the column format and try again.",请更正列格式，再试一次。,module,Magento_Backend
 "Please select items.",请选择产品,module,Magento_Backend
@@ -205,10 +205,10 @@ Submit,提交,module,Magento_Backend
 "An error occurred while enabling cache.",启用缓存时出错。,module,Magento_Backend
 "%1 cache type(s) refreshed.","%1 缓存类型刷新。",module,Magento_Backend
 "An error occurred while refreshing cache.",刷新缓存时出错。,module,Magento_Backend
-Dashboard,控制面板,module,Magento_Backend
+Dashboard,信息中心,module,Magento_Backend
 "invalid request",无效请求,module,Magento_Backend
 "see error log for details",请参阅错误日志里的详细信息,module,Magento_Backend
-"Service unavailable: %1","服务不可用: %1",module,Magento_Backend
+"Service unavailable: %1",服务不可用：%1,module,Magento_Backend
 Error,错误,module,Magento_Backend
 "You need more permissions to do this.",你需要更多的权限来执行此操作。,module,Magento_Backend
 "No search modules were registered",没有注册的搜索模块,module,Magento_Backend
@@ -222,35 +222,35 @@ Error,错误,module,Magento_Backend
 System,系统,module,Magento_Backend
 "Manage Stores",管理店铺,module,Magento_Backend
 "The database was backed up.",数据库备份。,module,Magento_Backend
-"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","删除 %1 不会删除与 %1 (例如类别、 产品等)，相关的信息，但 %1 将不能被恢复。建议在删除 %1 之前创建数据库备份。",module,Magento_Backend
+"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","删除 %1 不会删除与 %1（例如类别、 产品等）相关的信息，但 %1 将不能被恢复。建议在删除 %1 之前创建数据库备份。",module,Magento_Backend
 "This store cannot be deleted.",不能删除此店铺。,module,Magento_Backend
 "Unable to delete store. Please, try again later.",无法删除商店。请稍后再试。,module,Magento_Backend
 "This store view cannot be deleted.",不能删除该店铺视图。,module,Magento_Backend
 "Store View",店铺视图,module,Magento_Backend
 "Unable to delete store view. Please, try again later.",无法删除商店视图。请稍后再试。,module,Magento_Backend
-"This website cannot be deleted.",不能删除此站点。,module,Magento_Backend
+"This website cannot be deleted.",无法删除此网站。,module,Magento_Backend
 "Unable to delete website. Please, try again later.",不能删除该网站。请稍后再试。,module,Magento_Backend
 "The website does not exist.",该网站不存在。,module,Magento_Backend
 "The store does not exist",店铺不存在,module,Magento_Backend
 "Store view doesn't exist",店铺视图不存在,module,Magento_Backend
-"Last 24 Hours","过去 24 小时内",module,Magento_Backend
+"Last 24 Hours","最近 24 小时",module,Magento_Backend
 "Last 7 Days","最近 7 天",module,Magento_Backend
 "Current Month",当月,module,Magento_Backend
 "You did not sign in correctly or your account is temporarily disabled.",登录不正确或者您的账号已禁用。,module,Magento_Backend
-"Authentication error occurred.",发生身份验证错误。,module,Magento_Backend
+"Authentication error occurred.",发生验证错误。,module,Magento_Backend
 Order,订单,module,Magento_Backend
 "Order #%1","订单 #%1",module,Magento_Backend
 "Access denied",访问被拒绝,module,Magento_Backend
 "If you continue to receive this message, please contact the store owner.",如果您继续收到此消息，请联系店主。,module,Magento_Backend
 "Welcome, please sign in",欢迎，请登录,module,Magento_Backend
-"user name",用户名称,module,Magento_Backend
+"user name",用户名,module,Magento_Backend
 password,密码,module,Magento_Backend
 "Sign in",登录,module,Magento_Backend
-"Select Range:",选择区域:,module,Magento_Backend
+"Select Range:",选择范围：,module,Magento_Backend
 "No Data Found",找不到数据,module,Magento_Backend
-"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","图表被禁用。若要启用图表，请单击 <a href=""%1""> 这里</a>。",module,Magento_Backend
-"Last Orders",最后的订单,module,Magento_Backend
-"Last Search Terms",最后一个搜索条件,module,Magento_Backend
+"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","图表被禁用，若要启用图表，请单击 <a href=""%1""> 这里</a>。",module,Magento_Backend
+"Last Orders",近期订单,module,Magento_Backend
+"Last Search Terms",近期搜索条件,module,Magento_Backend
 "Top Search Terms",热门搜索词,module,Magento_Backend
 "There are no search keywords.",没有搜索关键字。,module,Magento_Backend
 "View Statistics For:",查看统计信息为:,module,Magento_Backend
@@ -272,7 +272,7 @@ Time,时间,module,Magento_Backend
 Hour,小时,module,Magento_Backend
 Minute,分钟,module,Magento_Backend
 "JavaScript may be disabled in your browser.","可能您的浏览器中禁用了 JavaScript。",module,Magento_Backend
-"To use this website you must first enable JavaScript in your browser.","要使用本网站必须首先在您的浏览器启用 JavaScript。",module,Magento_Backend
+"To use this website you must first enable JavaScript in your browser.","您的浏览器必须先启用 JavaScript，然后才能流畅浏览本网站。",module,Magento_Backend
 "This is only a demo store. You can browse and place orders, but nothing will be processed.",这是只是一个演示的商店。您可以浏览并下订单，但什么都不会被处理。,module,Magento_Backend
 "Stores Configuration",店铺配置,module,Magento_Backend
 "Additional Cache Management",额外的缓存管理,module,Magento_Backend
@@ -280,28 +280,28 @@ Minute,分钟,module,Magento_Backend
 "Pregenerated product images files",预先产生产品图片文件,module,Magento_Backend
 "Flush JavaScript/CSS Cache","刷新 JavaScript 和 CSS 缓存",module,Magento_Backend
 "Themes JavaScript and CSS files combined to one file.","主题 JavaScript 和 CSS 文件合并到一个文件",module,Magento_Backend
-"Flush Static Files Cache","刷新 静态文件缓存",module,Magento_Backend
+"Flush Static Files Cache",刷新静态文件缓存,module,Magento_Backend
 "Preprocessed view files and static files",预处理的视图文件和静态文件,module,Magento_Backend
 Catalog,分类,module,Magento_Backend
 JavaScript/CSS,"JavaScript 和 CSS",module,Magento_Backend
 "JavaScript/CSS Cache","JavaScript 和 CSS 缓存",module,Magento_Backend
-"No records found.",未找到记录,module,Magento_Backend
+"No records found.",未找到记录。,module,Magento_Backend
 Images,图片,module,Magento_Backend
-"Big Image",大图片,module,Magento_Backend
+"Big Image",大图,module,Magento_Backend
 Thumbnail,缩略图,module,Magento_Backend
 "Additional Settings",附加设置,module,Magento_Backend
 "per page",每页,module,Magento_Backend
 "Previous page",前一页,module,Magento_Backend
 "of %1",%1,module,Magento_Backend
 "Next page",下页,module,Magento_Backend
-"Export to:",导出到:,module,Magento_Backend
+"Export to:",导出到：,module,Magento_Backend
 Actions,动作,module,Magento_Backend
 "Mass Actions",批量操作,module,Magento_Backend
 "Unselect All",取消全选,module,Magento_Backend
 "Select Visible",选择可见,module,Magento_Backend
 "Unselect Visible",取消选择可见,module,Magento_Backend
 "The information in this tab has been changed.",此选项卡中的信息已更改。,module,Magento_Backend
-Loading...,"加载 。。。",module,Magento_Backend
+Loading...,"加载 ……",module,Magento_Backend
 "System Backup",系统备份,module,Magento_Backup
 "Database and Media Backup",数据库和备份媒体,module,Magento_Backup
 "Database Backup",数据库备份,module,Magento_Backup
@@ -4177,7 +4177,7 @@ Ok,OK,module,Magento_Sales
 Severity,严重程度,module,Magento_AdminNotification
 "Date Added",日期已添加,module,Magento_AdminNotification
 Message,信息,module,Magento_AdminNotification
-Actions,动作,module,Magento_AdminNotification
+Actions,操作,module,Magento_AdminNotification
 "Authorize.net Direct Post","Authorize.net 直接付款",module,Magento_Authorizenet
 Enabled,启用,module,Magento_Authorizenet
 "Payment Action",支付行为,module,Magento_Authorizenet
@@ -4203,11 +4203,11 @@ Services,服务,module,Magento_Backend
 Advanced,高级,module,Magento_Backend
 "Disable Modules Output",禁用模块输出,module,Magento_Backend
 "Store Email Addresses",店铺电子邮件地址,module,Magento_Backend
-"Custom Email 1","自定义电子邮件 1",module,Magento_Backend
+"Custom Email 1","自定义邮件 1",module,Magento_Backend
 "Sender Email",发件人的电子邮件,module,Magento_Backend
 "Sender Name",发件人姓名,module,Magento_Backend
 "Custom Email 2","自定义电子邮件 2",module,Magento_Backend
-"General Contact",一般接触,module,Magento_Backend
+"General Contact",通用联系方式,module,Magento_Backend
 "Sales Representative",销售代表,module,Magento_Backend
 "Customer Support",客户支持,module,Magento_Backend
 Design,设计,module,Magento_Backend
@@ -4225,21 +4225,21 @@ Pagination,分页,module,Magento_Backend
 "Alternative text for next link in pagination menu. If empty, default arrow image will used.",替代文字在分页菜单中的下一个链接。如果为空，将使用默认的箭头图像。,module,Magento_Backend
 Developer,开发人员,module,Magento_Backend
 Debug,调试,module,Magento_Backend
-"Enabled Template Path Hints for Storefront",为店面前端启用模板路径提示,module,Magento_Backend
+"Enabled Template Path Hints for Storefront",为店铺前端启用模板路径提示,module,Magento_Backend
 "Enabled Template Path Hints for Admin",为管理员启用模板路径提示,module,Magento_Backend
 "Add Block Names to Hints",添加页面块名称提示,module,Magento_Backend
 "Template Settings",模板设置,module,Magento_Backend
-"Allow Symlinks",允许的符号链接,module,Magento_Backend
+"Allow Symlinks",允许符号链接,module,Magento_Backend
 "Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","警告! 不建议在生产环境中启用此功能因为有潜在的安全风险。",module,Magento_Backend
-"Minify Html","缩小 Html",module,Magento_Backend
-"Translate Inline",行内转化,module,Magento_Backend
+"Minify Html","最小化 Html",module,Magento_Backend
+"Translate Inline",内联翻译,module,Magento_Backend
 "Enabled for Storefront",为前台启用,module,Magento_Backend
 "Enabled for Admin",为管理员启用,module,Magento_Backend
-"Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.",店铺前端和后台管理内嵌翻译两者的翻译缓存页面块缓存和其它输出缓存应该被禁用。,module,Magento_Backend
+"Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.",店铺前端和后台管理的内嵌翻译的翻译、页面块和其它输出的缓存应该被禁用。,module,Magento_Backend
 "JavaScript Settings","JavaScript 设置",module,Magento_Backend
-"Merge JavaScript Files","合并JavaScript 文件",module,Magento_Backend
+"Merge JavaScript Files","合并 JavaScript 文件",module,Magento_Backend
 "Enable Javascript Bundling","启用 Javascript 捆绑",module,Magento_Backend
-"Minify JavaScript Files","最小化JavaScript 文件体积",module,Magento_Backend
+"Minify JavaScript Files","最小化 JavaScript 文件体积",module,Magento_Backend
 "CSS Settings","CSS 设置",module,Magento_Backend
 "Merge CSS Files","合并 CSS 文件",module,Magento_Backend
 "Minify CSS Files","最小化 CSS 文件体积",module,Magento_Backend
@@ -4251,8 +4251,8 @@ Debug,调试,module,Magento_Backend
 "Allow Countries",允许的国家,module,Magento_Backend
 "Default Country",默认国家,module,Magento_Backend
 "European Union Countries",欧盟国家,module,Magento_Backend
-"Top destinations",顶级目的地,module,Magento_Backend
-"Locale Options",区域设置选项,module,Magento_Backend
+"Top destinations",热门目的地,module,Magento_Backend
+"Locale Options",区域选项,module,Magento_Backend
 Timezone,时区,module,Magento_Backend
 Locale,区域,module,Magento_Backend
 "First Day of Week",每周的第一天,module,Magento_Backend
@@ -4269,69 +4269,69 @@ City,城市,module,Magento_Backend
 "VAT Number",增值税VAT号码,module,Magento_Backend
 "Single-Store Mode",单店铺模式,module,Magento_Backend
 "Enable Single-Store Mode",启用单店铺模式,module,Magento_Backend
-"This setting will not be taken into account if system has more than one store view.",此设置不会考虑到系统如果有多个店铺视图的情况。,module,Magento_Backend
+"This setting will not be taken into account if system has more than one store view.",如果系统具有多个店铺视图，则不会考虑此设置。,module,Magento_Backend
 "Mail Sending Settings",邮件发送设置,module,Magento_Backend
 "Disable Email Communications",禁用电子邮件通信,module,Magento_Backend
 Host,主机,module,Magento_Backend
 "Port (25)","端口 (25)",module,Magento_Backend
 "Set Return-Path",设置返回路径,module,Magento_Backend
-"Return-Path Email",返回路径电子邮件,module,Magento_Backend
+"Return-Path Email",返回路径邮件,module,Magento_Backend
 Admin,管理员,module,Magento_Backend
-"Admin User Emails",管理员用户电子邮件,module,Magento_Backend
-"Forgot Password Email Template",忘记密码的电子邮件模板,module,Magento_Backend
+"Admin User Emails",管理员用户邮件,module,Magento_Backend
+"Forgot Password Email Template",忘记密码的邮件模板,module,Magento_Backend
 "Email template chosen based on theme fallback when ""Default"" option is selected.","采用""默认""选项时电子邮件模板基于回退主题。",module,Magento_Backend
-"Forgot and Reset Email Sender",遗忘和重置电子邮件发件人,module,Magento_Backend
+"Forgot and Reset Email Sender",忘记了并重置电子邮件发件人,module,Magento_Backend
 "Recovery Link Expiration Period (days)","恢复链接过期期限 (天)",module,Magento_Backend
 "Please enter a number 1 or greater in this field.","请在此字段中输入数量大于或等于 1。",module,Magento_Backend
 "Startup Page",起始页,module,Magento_Backend
-"Admin Base URL",管理原始URL,module,Magento_Backend
-"Use Custom Admin URL","使用自定义 Admin URL",module,Magento_Backend
-"Custom Admin URL","自定义 Admin URL",module,Magento_Backend
+"Admin Base URL","后台基础 URL",module,Magento_Backend
+"Use Custom Admin URL","使用自定义后台 URL",module,Magento_Backend
+"Custom Admin URL","自定义后台 URL",module,Magento_Backend
 "Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","请确保，基 URL 以 '/' (斜线)，例如 http://yourdomain/magento/",module,Magento_Backend
-"Use Custom Admin Path",使用自定义管理路径,module,Magento_Backend
-"Custom Admin Path",自定义管理路径,module,Magento_Backend
+"Use Custom Admin Path",使用自定义后台路径,module,Magento_Backend
+"Custom Admin Path",自定义后台路径,module,Magento_Backend
 Security,安全,module,Magento_Backend
-"Add Secret Key to URLs",将密钥添加到URLs,module,Magento_Backend
+"Add Secret Key to URLs","将密钥添加到 URL",module,Magento_Backend
 "Login is Case Sensitive",登录名区分大小写,module,Magento_Backend
-"Admin Session Lifetime (seconds)","管理员会话有效期 (秒)",module,Magento_Backend
+"Admin Session Lifetime (seconds)","后台会话有效期 (秒)",module,Magento_Backend
 "Values less than 60 are ignored.","小于 60 的值将被忽略。",module,Magento_Backend
 "Enable Charts",启用图表,module,Magento_Backend
 "Url Options","Url 选项",module,Magento_Backend
 "Add Store Code to Urls","将存储代码添加到 Urls",module,Magento_Backend
-"Auto-redirect to Base URL",自动重定向到原始URL,module,Magento_Backend
+"Auto-redirect to Base URL","自动重定向到基础 URL",module,Magento_Backend
 "Search Engine Optimization",搜索引擎优化,module,Magento_Backend
 "Use Web Server Rewrites","使用 Web 服务器重写",module,Magento_Backend
-"Base URLs",原始URLs,module,Magento_Backend
-"Base URL",原始URL,module,Magento_Backend
+"Base URLs","基础 URL",module,Magento_Backend
+"Base URL","基础 URL",module,Magento_Backend
 "Specify URL or {{base_url}} placeholder.","指定 URL 或 {{base_url}} 的占位符。",module,Magento_Backend
-"Base Link URL","原始链接 URL",module,Magento_Backend
-"Base URL for Static View Files","原始URL 静态视图文件",module,Magento_Backend
+"Base Link URL","基础链接 URL",module,Magento_Backend
+"Base URL for Static View Files","基础 URL 静态视图文件",module,Magento_Backend
 "May be empty or start with {{unsecure_base_url}} placeholder.","可能为空或启动与 {{unsecure_base_url}} 占位符。",module,Magento_Backend
-"Base URL for User Media Files",用户媒体文件的的原始URL,module,Magento_Backend
-"Base URLs (Secure)","原始URLs (安全)",module,Magento_Backend
-"Secure Base URL",加密原始URL,module,Magento_Backend
+"Base URL for User Media Files","用户媒体文件的的基础 URL",module,Magento_Backend
+"Base URLs (Secure)","基础 URL (安全)",module,Magento_Backend
+"Secure Base URL","加密基础 URL",module,Magento_Backend
 "Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","指定 URL 或 {{base_url}} 或 {{unsecure_base_url}} 的占位符。",module,Magento_Backend
-"Secure Base Link URL",加密原始URL,module,Magento_Backend
-"Secure Base URL for Static View Files",静态视图文件的加密原始URL,module,Magento_Backend
+"Secure Base Link URL","加密基础 URL",module,Magento_Backend
+"Secure Base URL for Static View Files","静态视图文件的加密基础 URL",module,Magento_Backend
 "May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","可能为空或启动与 {{secure_base_url}} 或 {{unsecure_base_url}} 占位符。",module,Magento_Backend
-"Secure Base URL for User Media Files",用户的媒体文件的加密原始URL,module,Magento_Backend
-"Use Secure URLs on Storefront",在店铺前台使用加密链接,module,Magento_Backend
-"Use Secure URLs in Admin",管理员使用加密链接,module,Magento_Backend
-"Offloader header",卸载协议头,module,Magento_Backend
+"Secure Base URL for User Media Files","用户的媒体文件的加密基础 URL",module,Magento_Backend
+"Use Secure URLs on Storefront","在店铺前台使用加密链接 URL",module,Magento_Backend
+"Use Secure URLs in Admin","管理员使用加密链接 URL",module,Magento_Backend
+"Offloader header","页眉 加载器",module,Magento_Backend
 "Default Pages",默认页,module,Magento_Backend
-"Default Web URL",默认网址URL,module,Magento_Backend
-"Default No-route URL",默认无路由URL,module,Magento_Backend
+"Default Web URL","默认网址 URL",module,Magento_Backend
+"Default No-route URL","默认无路由 URL",module,Magento_Backend
 "Session Validation Settings",会话验证设置,module,Magento_Backend
 "Validate REMOTE_ADDR","验证 REMOTE_ADDR",module,Magento_Backend
 "Validate HTTP_VIA","验证 HTTP_VIA",module,Magento_Backend
 "Validate HTTP_X_FORWARDED_FOR","验证 HTTP_X_FORWARDED_FOR",module,Magento_Backend
 "Validate HTTP_USER_AGENT","验证 HTTP_USER_AGENT",module,Magento_Backend
-"Use SID on Storefront","在前台前台使用 SID会话ID",module,Magento_Backend
+"Use SID on Storefront","在前台前台使用 SID 会话 ID",module,Magento_Backend
 "Allows customers to stay logged in when switching between different stores.",允许客户在不同的商店之间切换时保持登录。,module,Magento_Backend
 "Cache Type",缓存类型,module,Magento_Backend
 Description,描述,module,Magento_Backend
 Tags,标签,module,Magento_Backend
-"<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading""> 404 错误</h1><p>页找不到。</p>",module,Magento_Backend
+"<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">404 错误</h1><p>页找不到。</p>",module,Magento_Backend
 "Community Edition",社区版,module,Magento_Backend
 "Scheduled Backup Settings",计划的备份设置,module,Magento_Backup
 "Enable Scheduled Backup",启用定时的备份,module,Magento_Backup
