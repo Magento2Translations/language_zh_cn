@@ -5,7 +5,7 @@ Remove,删除,module,Magento_AdminNotification
 "Messages Inbox",消息收件箱,module,Magento_AdminNotification
 "You have %1 new system messages","你有 %1 新系统消息",module,Magento_AdminNotification
 "You have %1 new system message","你有 %1 新系统消息",module,Magento_AdminNotification
-"Incoming Message",接受消息,module,Magento_AdminNotification
+"Incoming Message",收到消息,module,Magento_AdminNotification
 close,关闭,module,Magento_AdminNotification
 Notifications,通知消息,module,Magento_AdminNotification
 "The message has been marked as Read.",邮件已标记为已读。,module,Magento_AdminNotification
@@ -318,7 +318,7 @@ successful,成功,module,Magento_Backup
 "Please correct the password.",请更正密码。,module,Magento_Backup
 Database,数据库,module,Magento_Backup
 "Database and Media",数据库和媒体,module,Magento_Backup
-"System (excluding Media)","系统 (不含介质)",module,Magento_Backup
+"System (excluding Media)","系统 (不含媒体)",module,Magento_Backup
 "Please correct the order of creation for a new backup.",请按正确的顺序创建新的备份。,module,Magento_Backup
 "The backup file does not exist.",备份文件不存在。,module,Magento_Backup
 "The backup file path was not specified.",未指定备份文件路径。,module,Magento_Backup
