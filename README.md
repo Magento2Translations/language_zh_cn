@@ -1,3 +1,9 @@
+# Looking for maintainer
+These [Magento2Translations](http://magento2translations.github.io/) packages are unmaintained. This means that from time to time we will run the sync and build from Crowdin. But we probably won't add Magento/Crowdin versions. If you would like to continue the work done here please send us a message.
+
+Have a look at all the other great community maintained packages at [e-conomix/magento-translations](https://github.com/e-conomix/magento-translations).
+Or [Mageplaza maintained packages](https://github.com/mageplaza?q=language).
+
 # Chinese (中文) Magento2 Language Pack (zh_CN)
 This is a Language Pack generated from the [official Magento2 translations project](https://crowdin.com/project/magento-2) at [Crowdin](https://crowdin.com).
 The Chinese (中文) translations used can be found [here](https://crowdin.com/project/magento-2/zh).
